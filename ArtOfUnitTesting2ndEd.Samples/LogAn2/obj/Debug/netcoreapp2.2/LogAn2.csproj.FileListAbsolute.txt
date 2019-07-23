@@ -1,0 +1,9 @@
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2\bin\Debug\netcoreapp2.2\LogAn2.deps.json
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2\bin\Debug\netcoreapp2.2\LogAn2.dll
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2\bin\Debug\netcoreapp2.2\LogAn2.pdb
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2\obj\Debug\netcoreapp2.2\LogAn2.csprojAssemblyReference.cache
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2\obj\Debug\netcoreapp2.2\LogAn2.csproj.CoreCompileInputs.cache
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2\obj\Debug\netcoreapp2.2\LogAn2.AssemblyInfoInputs.cache
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2\obj\Debug\netcoreapp2.2\LogAn2.AssemblyInfo.cs
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2\obj\Debug\netcoreapp2.2\LogAn2.dll
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2\obj\Debug\netcoreapp2.2\LogAn2.pdb

@@ -1,0 +1,17 @@
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\bin\Debug\netcoreapp2.2\LogAn2.UnitTests.deps.json
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\bin\Debug\netcoreapp2.2\LogAn2.UnitTests.runtimeconfig.json
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\bin\Debug\netcoreapp2.2\LogAn2.UnitTests.runtimeconfig.dev.json
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\bin\Debug\netcoreapp2.2\LogAn2.UnitTests.dll
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\bin\Debug\netcoreapp2.2\LogAn2.UnitTests.pdb
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\bin\Debug\netcoreapp2.2\LogAn2.dll
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\bin\Debug\netcoreapp2.2\LogAn2.pdb
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\obj\Debug\netcoreapp2.2\LogAn2.UnitTests.csprojAssemblyReference.cache
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\obj\Debug\netcoreapp2.2\LogAn2.UnitTests.csproj.CoreCompileInputs.cache
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\obj\Debug\netcoreapp2.2\LogAn2.UnitTests.AssemblyInfoInputs.cache
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\obj\Debug\netcoreapp2.2\LogAn2.UnitTests.AssemblyInfo.cs
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\obj\Debug\netcoreapp2.2\LogAn2.UnitTests.csproj.CopyComplete
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\obj\Debug\netcoreapp2.2\LogAn2.UnitTests.dll
+D:\_Projects\_Git\maning\ArtOfUnitTesting2ndEd.Samples\LogAn2.UnitTests\obj\Debug\netcoreapp2.2\LogAn2.UnitTests.pdb
